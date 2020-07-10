@@ -1,0 +1,2 @@
+pytest==6.0.0rc1
+pytest-it==0.1.4
